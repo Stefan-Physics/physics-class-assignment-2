@@ -1,1 +1,4 @@
-
+Write a code to define a relativistic *boost* function, that will take an input velocity vector and
+a frame vector and will then output the velocity vector in the new frame. For a consider an observer (Curie) 
+moving with velocity of (0.7,0,0) relative to Einstein. What velocity does she see for objects that 
+Einstein measures to move at (0.3,0,0), (0,0.4,0) and (0.5,0.5,0), where all velocities are in units of c.
